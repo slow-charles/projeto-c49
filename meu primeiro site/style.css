@@ -1,0 +1,25 @@
+body{
+    width: 100%;
+    min-height: 100%;
+    background: linear-gradient(90deg, #00dbde 0%, #9d0d9f 100%);
+    display: inline;
+    justify-content: center;
+    align-items: center;
+}
+#titulo{
+    position: absolute;
+    margin-left: 400px;
+}
+.header{
+    display: flexbox;
+    width: 70%;
+    justify-content: center;
+    background-color: #fafafa;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    width: 70%;
+    max-width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-self: center  ;
+}
